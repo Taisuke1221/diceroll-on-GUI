@@ -1,28 +1,4 @@
+test github push
+hi guys! 
+I fixed the text.
 
-ooo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-git a
-a
-Chello thank you for reading!::
-ihellod
